@@ -25,6 +25,8 @@
     "react": "^19.2.0",
     "react-aria-components": "^1.16.0",
     "react-dom": "^19.2.0",
+    "tailwind-merge": "^3.5.0",
+    "tailwind-variants": "^3.2.2",
     "tailwindcss": "^4.1.18",
     "tone": "^15.1.22",
     "zustand": "^5.0.11"
@@ -44,6 +46,7 @@
     "prettier": "^3.8.1",
     "typescript": "^5.7.2",
     "vite": "^7.3.1",
+    "vite-plugin-svgr": "^4.5.0",
     "vite-tsconfig-paths": "^5.1.4",
     "vitest": "^3.0.5"
   },
